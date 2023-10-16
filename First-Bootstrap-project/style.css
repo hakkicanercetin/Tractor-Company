@@ -1,0 +1,131 @@
+.navbar-nav li a
+{
+    color: rgba(255, 255, 255, 1);
+}
+.dropdown-item
+{
+    color: black !important;
+}
+.navbar{
+    background-color: #0075bd;
+}
+.card-img-top
+{
+    height: 150px;
+}
+.my-fs
+{
+    font-size:3rem
+}
+.my-fs span
+{
+    color: #0075bd;
+}
+.my-first-div p
+{
+    color: rgba(255, 255, 255, .5)
+}
+.my-first-div button a
+{
+    color: white;
+    text-decoration: none;
+}
+.my-second-div div:nth-child(1) h2 span
+{
+    color: #0075bd;
+}
+.my-second-div div:nth-child(2) div
+{
+   width: 3rem;
+   height: 3rem;
+}
+.my-second-div div:nth-child(2) h2
+{
+    color: #0075bd;
+}
+.my-second-div div:nth-child(3) div
+{
+   width: 3rem;
+   height: 3rem;
+}
+.my-second-div div:nth-child(3) h2
+{
+    color: #0075bd;
+}
+.my-second-div div:nth-child(5) div
+{
+   width: 3rem;
+   height: 3rem;
+}
+.my-second-div div:nth-child(5) h2
+{
+    color: #0075bd;
+}
+.my-second-section img
+{
+    width: 40px;
+    height: auto;
+}
+.my-second-section span:nth-child(1)
+{
+    color: blue;
+}
+.my-manuel-photo-size
+{
+    width: 60px;
+    height: 60px;
+}
+.my-second-section p
+{
+    color: black;
+    opacity: 0.5;
+}
+footer a
+{
+    color: white;
+}
+.my-third-section button
+{
+    border: 1px solid white;
+    border-radius: 0 5px 5px 0;
+}
+.my-third-section p
+{
+    color: white;
+    opacity: 0.5;
+}
+/* ABOUT.html */
+.about-body p
+{
+    color: #000;
+    opacity: 0.5
+}
+.second-about-section
+{
+    margin-top: 6.25rem; 
+    margin-bottom: 0;
+}
+.second-about-section img
+{
+    width: 150px;
+    height: 150px;
+}
+.second-about-section i
+{
+    color: #000;
+    opacity: 0.5
+}
+/* CONTACT.html */
+.my-cntct-first-section p
+{
+    color: rgba(0, 0, 0, .5);
+}
+.my-cntct-second-section p
+{
+    color: #6c757d;
+}
+/*
+.my-first-div button:nth-child(2)
+{
+    border: 1px solid white;
+}*/
